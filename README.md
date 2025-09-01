@@ -10,10 +10,10 @@ A MERN stack application to manage personal notes securely with authentication.
 - MongoDB as database  
 
 ## 🛠️ Tech Stack
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ## 📂 Project Structure
 ```
@@ -80,10 +80,6 @@ iNoteBook/
 - **POST** `/api/notes/addnote` → Add a new note  
 - **PUT** `/api/notes/updatenote/:id` → Update an existing note  
 - **DELETE** `/api/notes/deletenote/:id` → Delete a note  
-
-
-## 🌐 Live Demo
-👉 [Click here to view deployed app](https://your-deployment-link.com)  
 
 ## 📜 License
 This project is licensed under the MIT License.  
